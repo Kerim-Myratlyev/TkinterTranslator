@@ -1,4 +1,4 @@
-#TkinterTranslator
+##TkinterTranslator
 
 <h2>Project Description</h2>
 TkinterTranslator is an application developed for convenient text translation using a free translation API. The project uses the Tkinter library to create a graphical user interface, making it user-friendly and intuitive.
